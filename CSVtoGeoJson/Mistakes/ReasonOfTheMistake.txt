@@ -1,2 +1,0 @@
--1 the coordinate reference system (WGS84) information is missing in the key "crs". 
-Check the STATES_ToGeoJSON.json as an example file on Canvas.
