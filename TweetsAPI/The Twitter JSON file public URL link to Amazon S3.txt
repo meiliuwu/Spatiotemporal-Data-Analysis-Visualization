@@ -1,0 +1,2 @@
+The Twitter JSON file public URL link to Amazon S3:
+https://s3.us-east-2.amazonaws.com/geotweets-brexit-20190212/geotweets_51.499519%2C-0.124831%2C15mi_Brexit+plan_Theresa+May_2019-02-12.json
