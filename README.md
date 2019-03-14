@@ -9,7 +9,9 @@
 
 2. **matplotlib** package for the data visualization, including the population change graph, points/lines/polygons overlaying, etc. 
 3. **json** package for converting csv to geojson, loading json files, dumping dictionary into json format, etc.
+
 4.1 **pandas** package to perform dataframe processing, such as reading csv, appending, combining columns, calculation, etc. 
+
 4.2 **numpy** package for the array creation and calculation
 5. **gdal** package for calculating NDVI with landsat images #from osgeo import gdal: using the gdal module to do the raster processing
 6. **scikit-learn** package for K-means Clustering and DBSCAN on geotagged tweets (points with coordinates)
