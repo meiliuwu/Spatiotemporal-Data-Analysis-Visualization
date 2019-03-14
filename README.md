@@ -3,9 +3,9 @@
 ### Topics
 1. **ArcPy package**:
 
-for vector data: MakeXYEventLayer_management, Select_analysis, SelectLayerByLocation_management, Buffer_analysis, SpatialJoin_analysis, etc.; 
+    for vector data: MakeXYEventLayer_management, Select_analysis, SelectLayerByLocation_management, Buffer_analysis, SpatialJoin_analysis, etc.; 
 
-for raster data: GetRasterProperties_management, CalculateStatistics_management, CompositeBands_management (for compositing a map based on elevation values), etc.
+    for raster data: GetRasterProperties_management, CalculateStatistics_management, CompositeBands_management (for compositing a map based on elevation values), etc.
 
 2. **matplotlib** package for the visualization of the population change 
 3. **json** package for converting csv to geojson, with pandas package to read csv 
