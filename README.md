@@ -17,7 +17,7 @@
 
 6. **gdal** package for calculating NDVI with landsat images #from osgeo import gdal: using the gdal module to do the raster processing
 
-7. **scikit-learn** package for K-means Clustering and DBSCAN on geotagged tweets (points with coordinates)
+7. **scikit-learn** package for K-means Clustering and DBSCAN on geotagged tweets (points with coordinates): https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/Scikit-learn-clustering/K-means_and_DBSCAN_geotagged_tweets.ipynb 
 
 8. **tweepy** package for collecting tweets from Twitter Streaming API
 
