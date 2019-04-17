@@ -2,29 +2,29 @@
 
 color_key = {'White':'aqua', 'Black':'lime',  'Asian':'red', 'Hispanic':'fuchsia', 'Native American':'yellow' }
 
-USA:
+## USA:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/Zoom%200%20-%20USA.png)
 
-Chicago:
+## Chicago:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/Zoom%202%20-%20Chicago.png)
 
-San Francisco:
+## San Francisco:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/San%20Francisco.png)
 
-New Orleans:
+## New Orleans:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/NewOrleans.png)
 
-New York City:
+## New York City:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/NYC.png)
 
-Los Angeles:
+## Los Angeles:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/LosAngeles.png)
 
-Houston:
+## Houston:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/Houston.png)
 
-Austin:
+## Austin:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/Austin.png)
 
-Atlanta:
+## Atlanta:
 ![output](https://github.com/mwu233/Spatiotemporal-Data-Analysis-Visualization/blob/master/BigDataViz/export/Atlanta.png)
